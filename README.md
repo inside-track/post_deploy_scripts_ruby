@@ -1,6 +1,6 @@
 # PostDeployScriptsRuby
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/post_deploy_scripts_ruby`. To experiment with that code, run `bin/console` for an interactive prompt.
+PostDeployScriptsRuby is a ActiveRecord Migration like language for writing project post deploy scripts.  It inherits Ecto Migration logic and options and provides the API to generate, run, and revert  scripts
 
 ```bash
 $ bundle exec rake pds:create test
