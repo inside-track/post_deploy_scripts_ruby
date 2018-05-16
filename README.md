@@ -1,6 +1,6 @@
 # PostDeployScriptsRuby
 
-PostDeployScriptsRuby is a ActiveRecord Migration like language for writing project post deploy scripts.  It inherits Ecto Migration logic and options and provides the API to generate, run, and revert  scripts
+PostDeployScriptsRuby is a ActiveRecord Migration like language for writing project post deploy scripts.  It inherits Active Record Migration logic and options and provides the API to generate, run, and revert  scripts
 
 ```bash
 $ bundle exec rake pds:create test
